@@ -19,7 +19,7 @@ uncontrolled file or process replication.
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd ReplicaLoop
+git clone https://github.com/holyyyyyyyyyyyyyyyyyyyyyyyyy/ReplicaLoop.
+cd ReplicaLoop.
 python demostration.py(for run not in infinite times)
 python fortest.py(for infinite loop)
